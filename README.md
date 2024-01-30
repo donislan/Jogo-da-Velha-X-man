@@ -1,0 +1,1 @@
+Primeiro projeto desenvolvido utilizando HTML5, CSS3 e JavaScript. O projeto parte dos conhecimentos adquiridos através do curso de Desenvolvimento Full Stack da OneBitCode, assim como, do treinamento Do Zero Ao Programador Contratado desenvolvido pela equipe do Dev Em Dobro. No projeto desenvolvemos e demonstramos habilidades de manipulação do DOM com o JavaScript.
